@@ -86,3 +86,14 @@ Third-party software/service, all rights belong to the original authors and trad
 <sub>Third-party software/service, all rights belong to the original authors. Unofficial listing for Google Workspace.</sub>
 
 </div>
+
+
+## More links
+
+- 🌐 **[Visit Google Workspace on SOFTGIT](https://softgit.pro/p/google-workspace)** — the full listing.
+- 📄 **[Google Workspace web page](https://desertpoolraise.github.io/google-workspace-download/)** — standalone info page.
+- 🗂️ [More Business software](https://softgit.pro/category/business)
+- 🏠 [SOFTGIT home](https://softgit.pro) · [All apps](https://softgit.pro/apps)
+- 🔒 [Verify a download (SHA-256)](https://softgit.pro/security)
+
+> Unofficial listing for Google Workspace. Third-party software; all rights belong to the original authors.
